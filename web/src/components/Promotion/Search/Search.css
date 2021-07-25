@@ -1,0 +1,55 @@
+.promotion-search__header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0083ca;
+    color: white;
+    margin-bottom: 20px;
+    
+}
+
+.promotion-search__header h1{
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+
+}
+
+.promotion-search__header :link {
+    color: white;
+  }
+
+.promotion-search__header Link{
+    border: 1px solid #3498DB;
+    border-radius: 4px;
+    color: #3498DB;
+    text-decoration: none;
+    padding: 8px 10px;
+}
+
+
+.promotion-search__input{
+    display: flex;
+    height: 42px;
+    border: 1px solid #cccc;
+    border-radius: 8px;
+    width:100%;
+    margin-bottom: 20px;
+    padding: 0 10px;
+    font-size: 16px;
+}
+
+.promotion-search__footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: #0083ca;
+    color: white;
+}
+
+.promotion-search__footer h4{
+    color: white;
+    text-align: center;
+    padding: 0 10px;
+}
